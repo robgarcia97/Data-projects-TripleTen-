@@ -1,5 +1,8 @@
-IMDB Movie Reviews Sentiment Classification
-Project Overview
+Machine Learning for Texts
+
+
+Project Overview:
+
 This project focuses on sentiment classification of IMDB movie reviews as positive or negative using various machine learning and deep learning approaches. The pipeline includes preprocessing, feature engineering, and training multiple models, ranging from logistic regression to BERT, to evaluate performance differences.
 
 Table of Contents
