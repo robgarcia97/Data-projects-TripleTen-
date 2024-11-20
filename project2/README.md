@@ -32,7 +32,6 @@ The model was built using the MobileNetV2 architecture with adjustments to suit 
 - **Optimizer:** Adam with a learning rate of 0.0001
 - **Loss Function:** Mean Absolute Error (MAE)
 
-The code for loading data and the model architecture is included in `run_model_on_gpu.py`.
 
 ## Training and Evaluation
 The model was trained for 20 epochs with an MAE target of less than 8. The results were:
