@@ -39,7 +39,6 @@ The model was trained for 20 epochs with an MAE target of less than 8. The resul
 - **Training MAE:** 6.57
 - **Validation MAE:** 7.65
 
-![Training Loss Plot](images/training_loss.png)
 
 ## Results and Conclusions
 The model met the performance target, showing potential for real-world application in the supermarket for age verification:
